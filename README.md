@@ -1,4 +1,3 @@
-# U8830D_Zilog_Z80
 some funny pieces of algorithmic art
 
 done by sqar
